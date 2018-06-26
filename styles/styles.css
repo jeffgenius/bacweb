@@ -1,0 +1,23 @@
+body {
+    width:62%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+header {
+    margin-top: 3em;
+}
+
+nav {
+    background-color: #F5F5F5;
+}
+
+h1 {
+    color:black;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    color: grey;
+}
